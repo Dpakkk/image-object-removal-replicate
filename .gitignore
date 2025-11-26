@@ -1,0 +1,6 @@
+.cog/
+*.pyc
+__pycache__/
+*.png
+*.jpg
+*.jpeg
