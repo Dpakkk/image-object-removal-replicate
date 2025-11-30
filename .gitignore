@@ -4,3 +4,7 @@ __pycache__/
 *.png
 *.jpg
 *.jpeg
+
+# Allow example files for Replicate playground
+!example_input.jpg
+!example_mask.png
